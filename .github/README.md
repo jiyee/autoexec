@@ -26,3 +26,5 @@
 
 ## Binds
 ![ArminC AutoExec Binds](https://raw.githubusercontent.com/ArmynC/ArminC-AutoExec/master/arminc_autoexec_binds.png)
+
+https://github.com/BXZ1/cs2-config
